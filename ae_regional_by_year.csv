@@ -1,0 +1,40 @@
+month,region,avg_pct_within_4hrs,trusts
+March 2021,East Of England ,87.6,13
+March 2021,London,89.4,18
+March 2021,Midlands ,84.9,21
+March 2021,North East And Yorkshire ,87.1,22
+March 2021,North West ,82.2,20
+March 2021,South East ,89.4,18
+March 2021,South West ,86.4,15
+March 2021,Total,87.3,1
+March 2022,East Of England ,72.5,13
+March 2022,London,75.0,18
+March 2022,Midlands ,71.1,21
+March 2022,North East And Yorkshire ,75.2,22
+March 2022,North West ,65.1,19
+March 2022,South East ,72.4,17
+March 2022,South West ,70.4,15
+March 2022,Total,74.2,1
+March 2023,East Of England ,73.2,13
+March 2023,London,71.9,18
+March 2023,Midlands ,68.8,21
+March 2023,North East And Yorkshire ,73.3,22
+March 2023,North West ,66.5,19
+March 2023,South East ,72.1,17
+March 2023,South West ,71.6,14
+March 2023,Total,74.0,1
+March 2024,East Of England ,73.6,13
+March 2024,London,74.3,18
+March 2024,Midlands ,69.0,21
+March 2024,North East And Yorkshire ,72.8,22
+March 2024,North West ,66.6,18
+March 2024,South East ,71.8,17
+March 2024,South West ,68.1,13
+March 2025,East Of England ,72.4,13
+March 2025,London,76.1,17
+March 2025,Midlands ,69.4,21
+March 2025,North East And Yorkshire ,74.3,22
+March 2025,North West ,68.4,18
+March 2025,South East ,70.5,17
+March 2025,South West ,67.9,13
+March 2025,Total,74.4,1
