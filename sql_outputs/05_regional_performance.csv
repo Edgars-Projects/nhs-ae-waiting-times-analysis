@@ -1,0 +1,36 @@
+year,region,trusts,avg_pct_within_4hrs,weighted_pct_within_4hrs,rank_worst_first
+2021,North West,20,82.2,81.6,1
+2021,Midlands,21,84.9,82.8,2
+2021,South West,15,86.4,86.6,3
+2021,North East And Yorkshire,22,87.1,86.9,4
+2021,East Of England,13,87.6,88.3,5
+2021,London,18,89.4,89.2,6
+2021,South East,18,89.4,89.3,7
+2022,North West,19,65.1,65.1,1
+2022,Midlands,21,71.1,68.8,2
+2022,South East,17,72.4,72.2,3
+2022,South West,15,70.4,72.8,4
+2022,East Of England,13,72.5,73.0,5
+2022,London,18,75.0,74.8,6
+2022,North East And Yorkshire,22,75.2,76.2,7
+2023,North West,19,66.5,66.9,1
+2023,Midlands,21,68.8,67.6,2
+2023,London,18,71.9,72.0,3
+2023,South East,17,72.1,73.1,4
+2023,South West,14,71.6,73.5,5
+2023,East Of England,13,73.2,73.7,6
+2023,North East And Yorkshire,22,73.3,74.2,7
+2024,Midlands,21,69.0,68.2,1
+2024,North West,18,66.6,68.4,2
+2024,South West,13,68.1,69.8,3
+2024,South East,17,71.8,72.1,4
+2024,North East And Yorkshire,22,72.8,73.1,5
+2024,London,18,74.3,73.9,6
+2024,East Of England,13,73.6,74.4,7
+2025,South West,13,67.9,68.8,1
+2025,Midlands,21,69.4,68.8,2
+2025,North West,18,68.4,70.4,3
+2025,South East,17,70.5,71.3,4
+2025,East Of England,13,72.4,72.5,5
+2025,North East And Yorkshire,22,74.3,74.8,6
+2025,London,17,76.1,75.5,7

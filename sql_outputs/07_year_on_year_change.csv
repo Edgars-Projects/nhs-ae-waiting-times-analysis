@@ -1,0 +1,36 @@
+region,year,pct_within_4hrs,change_vs_prior_year,change_since_2021
+East Of England,2021,88.3,,0.0
+East Of England,2022,73.0,-15.4,-15.4
+East Of England,2023,73.7,0.8,-14.6
+East Of England,2024,74.4,0.6,-14.0
+East Of England,2025,72.5,-1.8,-15.8
+London,2021,89.2,,0.0
+London,2022,74.8,-14.4,-14.4
+London,2023,72.0,-2.8,-17.2
+London,2024,73.9,1.8,-15.4
+London,2025,75.5,1.6,-13.8
+Midlands,2021,82.8,,0.0
+Midlands,2022,68.8,-14.0,-14.0
+Midlands,2023,67.6,-1.1,-15.1
+Midlands,2024,68.2,0.6,-14.5
+Midlands,2025,68.8,0.6,-14.0
+North East And Yorkshire,2021,86.9,,0.0
+North East And Yorkshire,2022,76.2,-10.7,-10.7
+North East And Yorkshire,2023,74.2,-1.9,-12.6
+North East And Yorkshire,2024,73.1,-1.2,-13.8
+North East And Yorkshire,2025,74.8,1.7,-12.1
+North West,2021,81.6,,0.0
+North West,2022,65.1,-16.5,-16.5
+North West,2023,66.9,1.8,-14.6
+North West,2024,68.4,1.5,-13.2
+North West,2025,70.4,2.0,-11.2
+South East,2021,89.3,,0.0
+South East,2022,72.2,-17.1,-17.1
+South East,2023,73.1,0.9,-16.2
+South East,2024,72.1,-0.9,-17.2
+South East,2025,71.3,-0.8,-18.0
+South West,2021,86.6,,0.0
+South West,2022,72.8,-13.8,-13.8
+South West,2023,73.5,0.7,-13.1
+South West,2024,69.8,-3.7,-16.8
+South West,2025,68.8,-1.0,-17.8
